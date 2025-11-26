@@ -1,4 +1,4 @@
-import { Asset } from '../../entities/Asset';
+import { Asset } from '../../entities/asset';
 
 describe('Asset type', () => {
   const validAsset: Asset = {

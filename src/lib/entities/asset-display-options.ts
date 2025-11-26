@@ -1,4 +1,4 @@
-import { AssetAlignment } from './AssetAlignment';
+import { AssetAlignment } from './asset-alignment';
 
 export interface AssetDisplayOptions {
   alignment?: AssetAlignment;

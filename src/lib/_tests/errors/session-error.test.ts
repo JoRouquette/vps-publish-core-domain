@@ -3,7 +3,7 @@ import {
   SessionNotFoundError,
   SessionExpiredError,
   SessionInvalidError,
-} from '../../errors/SessionError';
+} from '../../errors/session-error';
 
 describe('SessionError', () => {
   it('should set name and message', () => {

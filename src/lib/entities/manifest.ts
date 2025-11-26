@@ -1,4 +1,4 @@
-import { ManifestPage } from './ManifestPage';
+import { ManifestPage } from './manifest-page';
 
 export interface Manifest {
   sessionId: string;

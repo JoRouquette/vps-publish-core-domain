@@ -1,8 +1,8 @@
-import type { AssetRef } from './AssetRef';
-import { NoteCore } from './NoteCore';
-import { NoteRoutingInfo } from './NoteRoutingInfo';
-import type { ResolvedWikilink } from './ResolvedWikilink';
-import type { WikilinkRef } from './WikilinkRef';
+import type { AssetRef } from './asset-ref';
+import { NoteCore } from './note-core';
+import { NoteRoutingInfo } from './note-routing-info';
+import type { ResolvedWikilink } from './resolved-wikilink';
+import type { WikilinkRef } from './wikilink-ref';
 
 /**
  * PublishableNote = noyau + capacités OPTIONNELLES.

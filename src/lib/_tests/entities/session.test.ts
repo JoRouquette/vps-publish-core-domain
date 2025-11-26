@@ -1,4 +1,4 @@
-import { Session, SessionStatus } from '../../entities/Session';
+import { Session, SessionStatus } from '../../entities/session';
 
 describe('Session Entity', () => {
   const baseSession: Session = {

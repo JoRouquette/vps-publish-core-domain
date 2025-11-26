@@ -1,5 +1,5 @@
-import type { AssetRef } from './AssetRef';
-import { PublishableNote } from './PublishableNote';
+import type { AssetRef } from './asset-ref';
+import { PublishableNote } from './publishable-note';
 
 export type NoteWithAssets = PublishableNote & {
   assets: AssetRef[];

@@ -1,5 +1,5 @@
-import { ManifestPage } from '../../entities/ManifestPage';
-import { Manifest } from '../../entities/Manifest';
+import { ManifestPage } from '../../entities/manifest-page';
+import { Manifest } from '../../entities/manifest';
 
 describe('Manifest Entity', () => {
   const now = new Date();

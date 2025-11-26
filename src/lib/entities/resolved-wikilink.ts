@@ -1,4 +1,4 @@
-import type { WikilinkKind } from './WikilinkRef';
+import type { WikilinkKind } from './wikilink-ref';
 
 /**
  * Wikilink après tentative de résolution vers une note publiée.
